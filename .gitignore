@@ -1,0 +1,24 @@
+
+# Uploaded videos
+uploads/
+
+# ML model files
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment/secrets
+.env
+
+# YOLO outputs
+runs/
